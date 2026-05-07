@@ -1,0 +1,6 @@
+{
+  "name": "Remix: 雙組比賽計時器-0507-2",
+  "description": "用於兩組比賽同時計時的專業計時器，支援獨立控制、暫停及重設。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
